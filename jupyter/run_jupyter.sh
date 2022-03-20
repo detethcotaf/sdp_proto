@@ -1,0 +1,1 @@
+nohup jupyter-lab --port=8001 --allow-root --ip=0.0.0.0 &
