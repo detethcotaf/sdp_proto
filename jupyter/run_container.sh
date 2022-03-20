@@ -1,1 +1,0 @@
-docker run -tid -p 8001:8001 -v ${LOCALDIR}:/work/ --name sdp_python_jupyter mikebirdgeneau/jupyterlab jupyter-lab --ip='0.0.0.0' --port=8001 --allow-root
